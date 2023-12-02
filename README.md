@@ -1,3 +1,3 @@
 # DSA
 
-DSA CodeChef Practice repository
+DSA Practice repository
